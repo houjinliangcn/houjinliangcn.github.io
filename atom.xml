@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Murphy</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://story.cosmicdusty.cc/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://story.cosmicdusty.cc/"/>
   <updated>2023-10-02T08:06:11.208Z</updated>
-  <id>http://example.com/</id>
+  <id>https://story.cosmicdusty.cc/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Murphy</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>相识</title>
-    <link href="http://example.com/post/Acquaintance/"/>
-    <id>http://example.com/post/Acquaintance/</id>
+    <link href="https://story.cosmicdusty.cc/post/Acquaintance/"/>
+    <id>https://story.cosmicdusty.cc/post/Acquaintance/</id>
     <published>2023-10-01T05:50:35.000Z</published>
     <updated>2023-10-02T08:06:11.208Z</updated>
     
@@ -30,10 +30,10 @@
     
     
     
-    <category term="一生爱恋" scheme="http://example.com/categories/%E4%B8%80%E7%94%9F%E7%88%B1%E6%81%8B/"/>
+    <category term="一生爱恋" scheme="https://story.cosmicdusty.cc/categories/%E4%B8%80%E7%94%9F%E7%88%B1%E6%81%8B/"/>
     
     
-    <category term="相识" scheme="http://example.com/tags/%E7%9B%B8%E8%AF%86/"/>
+    <category term="相识" scheme="https://story.cosmicdusty.cc/tags/%E7%9B%B8%E8%AF%86/"/>
     
   </entry>
   
