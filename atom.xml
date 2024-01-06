@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Murphy</title>
+  
+  
+  <link href="https://story.cosmicdusty.cc/atom.xml" rel="self"/>
+  
+  <link href="https://story.cosmicdusty.cc/"/>
+  <updated>2024-01-06T01:59:43.643Z</updated>
+  <id>https://story.cosmicdusty.cc/</id>
+  
+  <author>
+    <name>Murphy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloworld</title>
+    <link href="https://story.cosmicdusty.cc/post/helloworld/"/>
+    <id>https://story.cosmicdusty.cc/post/helloworld/</id>
+    <published>2024-01-06T01:59:43.000Z</published>
+    <updated>2024-01-06T01:59:43.643Z</updated>
+    
+    
+    <summary type="html">false</summary>
+    
+    
+    
+    <category term="NoCategory" scheme="https://story.cosmicdusty.cc/categories/NoCategory/"/>
+    
+    
+    <category term="NoTag" scheme="https://story.cosmicdusty.cc/tags/NoTag/"/>
+    
+  </entry>
+  
+</feed>
